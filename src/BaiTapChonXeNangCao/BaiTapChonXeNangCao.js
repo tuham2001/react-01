@@ -120,7 +120,7 @@ export default class BaiTapChonXeNangCao extends Component {
                 <tbody>
                   <tr>
                     <td>Color</td>
-                    <td>Black</td>
+                    <td>White</td>
                   </tr>
                   <tr>
                     <td>Price</td>
